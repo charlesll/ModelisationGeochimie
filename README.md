@@ -29,6 +29,15 @@ Please note that, for the first run, you will need to install all the packages. 
 
 '!pip install matplotlib scipy numpy pandas emcee corner uncertainties'
 
+# Ressources
+
+https://scipy-lectures.org/intro/
+
+https://github.com/jrjohansson/scientific-python-lectures
+
+https://towardsdatascience.com/from-scratch-bayesian-inference-markov-chain-monte-carlo-and-metropolis-hastings-in-python-ef21a29e25a
+
+
 # Contributors
 
 Charles Le Losq, Institut de physique du globe de Paris
