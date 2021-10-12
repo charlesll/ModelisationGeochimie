@@ -3,3 +3,6 @@ scipy
 numpy
 pandas
 uncertainties
+corner
+pymc3
+emcee
