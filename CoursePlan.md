@@ -2,12 +2,12 @@
 
 You will be able, at the end of this course, to :
 
-- find information
+- find information.
 - fit a curve. It can be useful.
 - even fit a curve with associated errors !
 - say that MCMC does not refer to something potentially harmful, except for your old laptop
-- propagate errors
-- fit the diffusion of Al$^{3+}$ in olivine. or the CO2 versus time curve. Or any geochemical data with a model (at least, find the necessary information to do so)
+- propagate errors.
+- fit the diffusion of Al$^{3+}$ in olivine. or the CO2 versus time curve, or viscosity data. Or any geochemical data with a model (at least, find the necessary information to do so)
 
 # Tools
 

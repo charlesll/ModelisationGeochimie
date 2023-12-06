@@ -2,6 +2,8 @@
 
 Material for the course Modélisation en Géochimie
 
+November 2023 > !!! Course is ongoing, not all the material is online at the moment !!!
+
 # Dependencies
 
 You will need a working installation of Python, please see that with Google. I recommend Anaconda Python, that will provide a fully-featured Python distro with Jupyter Notebooks.
