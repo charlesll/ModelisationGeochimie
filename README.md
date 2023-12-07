@@ -42,6 +42,8 @@ in the first cell.
 
 # Ressources
 
+https://github.com/valentineap/ComputationalGeoscienceCourse
+
 https://scipy-lectures.org/intro/
 
 https://github.com/jrjohansson/scientific-python-lectures
