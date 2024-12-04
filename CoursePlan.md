@@ -14,10 +14,15 @@ You will be able, at the end of this course, to :
 - Python and a stack of good library, including numpy, scipy, matplotlib, etc.
 - But the principles are the same whatever the language, so this can be easily transfered to Julia, R, Matlab, C, FORTRAN...
 
+# Work case
+
+We will focus on one working case: fitting a diffusion profile in olivine, to find the concentration at the rim and the diffusion coefficient of the diffusing element. We will generate synthetic data, and ultimately apply what we learn on real data.
+
 # Timing
 
-- First four hours : we will see why, how, and how not to fit a curve.
-- Last four hours : MCMC introduction, application to fit a curve, discussion
+- First class : problem introduction, start with curve_fit
+- Second class : more on objective functions and error propagation
+- Last class : MCMC introduction, discussion
 
 # Ressources
 

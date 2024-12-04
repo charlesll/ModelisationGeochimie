@@ -2,7 +2,7 @@
 
 Material for the course Modélisation en Géochimie
 
-November 2023 > !!! Course is ongoing, not all the material is online at the moment !!!
+November 2024 > !!! Course is ongoing, not all the material is online at the moment !!!
 
 # Dependencies
 
@@ -14,7 +14,7 @@ In term of libraries, we will need:
 - numpy
 - pandas
 - emcee
-- pymc3
+- pymc
 - corner
 - uncertainties
 
